@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721836562417",
+    "project_id": "fb-revision",
+    "storage_bucket": "fb-revision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721836562417:android:695bb71100277e02895650",
+        "android_client_info": {
+          "package_name": "com.example.fb_revision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VGvpONkTRdBJflimkiJmk1gO7NtNyV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
